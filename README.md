@@ -1,6 +1,6 @@
 ### Seja bem vindo! Eu sou o Tiago Saraiva.
 
-- 💻 Full Stack Student | Recode Pro
+- 💻 Full Stack Developer | Recode Pro
 - 📚 HTML / CSS / JavaScript
 <div>
   <a href="https://github.com/tiagosaraivadev">
