@@ -1,7 +1,7 @@
 ### Seja bem vindo! Eu sou o Tiago Saraiva.
 
 - 💻 Full Stack Developer | Recode Pro
-- 📚 HTML / CSS / JavaScript
+- 📚 HTML / CSS / JavaScript / Java
 <div>
   <a href="https://github.com/tiagosaraivadev">
   <img height="200px" width="450px"src="https://github-readme-stats.vercel.app/api?username=tiagosaraivadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,8 +11,11 @@
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
   <img align="center" alt="Tiago-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
+     <img align="center" alt="Tiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </div>
     <img align="right" alt="Tiago-Gif" src="https://cdn.discordapp.com/attachments/880199164611407953/880275960887382036/picasion.com_9e01dcd93fe6607ac1e73334ae178cbf.gif"> 
-</div>
+   
+    
   
   ##
  
