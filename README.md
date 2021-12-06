@@ -1,7 +1,6 @@
 ### Seja bem vindo! Eu sou o Tiago Saraiva.
 
 - 💻 Full Stack Developer | Recode Pro
-- 📚 HTML / CSS / JavaScript / Java
 <div>
   <a href="https://github.com/tiagosaraivadev">
   <img height="200px" width="450px"src="https://github-readme-stats.vercel.app/api?username=tiagosaraivadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
