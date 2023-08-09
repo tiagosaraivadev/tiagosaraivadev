@@ -14,7 +14,7 @@
      <img align="center" alt="Tiago-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="Tiago-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
     <img align="center" alt="Tiago-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-    <img align="center" alt="Tiago-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />    
+    <img align="center" alt="Tiago-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   <img align="center" alt="Tiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   </div>
     <img align="right" alt="Tiago-Gif" src="https://cdn.discordapp.com/attachments/880199164611407953/880275960887382036/picasion.com_9e01dcd93fe6607ac1e73334ae178cbf.gif"> 
