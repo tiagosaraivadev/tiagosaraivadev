@@ -1,7 +1,7 @@
 ### Welcome! I'm Tiago Saraiva =)
 
 - 💻📚  Software Engineering | PUC Minas
-- 💻 Full Stack Software Developer at @Dottatec
+- 💻 Full Stack Software Developer at @DTI Digital
 <div>
   <a href="https://github.com/tiagosaraivadev">
   <img height="200px" width="400px"src="https://github-readme-stats.vercel.app/api?username=tiagosaraivadev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
