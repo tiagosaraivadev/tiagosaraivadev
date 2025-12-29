@@ -1,7 +1,7 @@
 ### Welcome! I'm Tiago Saraiva =)
 
 - 💻📚  Software Engineering | PUC Minas
-- 💻 Full Stack Software Developer at @dti digital
+- 💻 Software Engineer at @dti digital
   
 ##
   
