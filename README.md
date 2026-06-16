@@ -1,7 +1,7 @@
 ### Welcome! I'm Tiago Saraiva =)
 
 - 💻📚  Software Engineering | PUC Minas University
-- 💻 Software Engineer at @dti digital
+- 💻 Software Engineer at Wabtec Corporation
   
 ##
  
